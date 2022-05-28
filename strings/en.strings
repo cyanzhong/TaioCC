@@ -1,0 +1,29 @@
+"README_FILE" = "README.md";
+"ABOUT" = "About";
+"SOURCE_CODE" = "Source Code";
+
+"FOUND_NEW_VERSION" = "Found new version";
+"UPDATE_TO_NEW_VERSION" = "Update to the latest version?";
+"CURRENT_VERSION" = "Current Version";
+"GET_LATEST_VERSION" = "Get Latest Version";
+"UPDATE" = "Update";
+"CANCEL" = "Cancel";
+"TAIO_UPDATE_URL" = "https://github.com/cyanzhong/TaioCC/raw/main/dist/taiocc-en.json";
+
+"EDIT" = "Edit";
+"COPY" = "Copy";
+"CONVERT" = "Convert";
+"EMPTY_TEXT" = "Empty Text";
+"SOURCE_TEXT" = "Source";
+"DESTINATION_TEXT" = "Destination";
+"READ_FROM_CLIPBOARD" = "Read from Clipboard";
+"DIFF" = "Review Differences";
+"REPLACE_WITH_RESULT" = "Replace with Result";
+
+"DEFAULT_SOURCE_INDEX" = "0";
+"DEFAULT_DESTINATION_INDEX" = "2";
+"SIMPLIFIED_CHINESE" = "Simplified";
+"TRADITIONAL_TAIWAN" = "Traditional (Taiwan)";
+"TRADITIONAL_TAIWAN_WITH_PHRASES" = "Traditional (Taiwan, w/ phrases)";
+"TRADITIONAL_HONGKONG" = "Traditional (Hong Kong)";
+"JAPANESE_SHINJITAI" = "Japanese Shinjitai";

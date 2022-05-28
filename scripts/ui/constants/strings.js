@@ -1,0 +1,28 @@
+module.exports = {
+  about: $l10n("ABOUT"),
+  found_new_version: $l10n("FOUND_NEW_VERSION"),
+  update_to_new_version: $l10n("UPDATE_TO_NEW_VERSION"),
+  current_version: $l10n("CURRENT_VERSION"),
+  get_latest_version: $l10n("GET_LATEST_VERSION"),
+  update: $l10n("UPDATE"),
+  cancel: $l10n("CANCEL"),
+  taio_update_url: $l10n("TAIO_UPDATE_URL"),
+
+  edit: $l10n("EDIT"),
+  copy: $l10n("COPY"),
+  convert: $l10n("CONVERT"),
+  empty_text: $l10n("EMPTY_TEXT"),
+  source_text: $l10n("SOURCE_TEXT"),
+  read_from_clipboard: $l10n("READ_FROM_CLIPBOARD"),
+  diff: $l10n("DIFF"),
+  destination_text: $l10n("DESTINATION_TEXT"),
+  replace_with_result: $l10n("REPLACE_WITH_RESULT"),
+
+  default_source_index: $l10n("DEFAULT_SOURCE_INDEX"),
+  default_destination_index: $l10n("DEFAULT_DESTINATION_INDEX"),
+  simplified_chinese: $l10n("SIMPLIFIED_CHINESE"),
+  traditional_taiwan: $l10n("TRADITIONAL_TAIWAN"),
+  traditional_taiwan_with_phrases: $l10n("TRADITIONAL_TAIWAN_WITH_PHRASES"),
+  traditional_hongkong: $l10n("TRADITIONAL_HONGKONG"),
+  japanese_shinjitai: $l10n("JAPANESE_SHINJITAI"),
+}

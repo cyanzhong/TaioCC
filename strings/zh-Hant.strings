@@ -1,0 +1,29 @@
+"README_FILE" = "README_zh-Hant.md";
+"ABOUT" = "關於";
+"SOURCE_CODE" = "原始碼";
+
+"FOUND_NEW_VERSION" = "發現新版本";
+"UPDATE_TO_NEW_VERSION" = "更新到最新版本？";
+"CURRENT_VERSION" = "當前版本";
+"GET_LATEST_VERSION" = "獲取最新版本";
+"UPDATE" = "更新";
+"CANCEL" = "取消";
+"TAIO_UPDATE_URL" = "https://github.com/cyanzhong/TaioCC/raw/main/dist/taiocc-zh-Hant.json";
+
+"EDIT" = "編輯";
+"COPY" = "複製";
+"CONVERT" = "轉換";
+"EMPTY_TEXT" = "空空如也";
+"SOURCE_TEXT" = "原文";
+"DESTINATION_TEXT" = "目標";
+"READ_FROM_CLIPBOARD" = "從剪貼簿讀取";
+"DIFF" = "對比差異";
+"REPLACE_WITH_RESULT" = "使用結果替換";
+
+"DEFAULT_SOURCE_INDEX" = "2";
+"DEFAULT_DESTINATION_INDEX" = "0";
+"SIMPLIFIED_CHINESE" = "簡體中文";
+"TRADITIONAL_TAIWAN" = "臺灣繁體";
+"TRADITIONAL_TAIWAN_WITH_PHRASES" = "臺灣繁體 (含慣用語)";
+"TRADITIONAL_HONGKONG" = "香港繁體";
+"JAPANESE_SHINJITAI" = "日語新字型";

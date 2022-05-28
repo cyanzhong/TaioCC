@@ -1,0 +1,29 @@
+{
+  "actions" : [
+    {
+      "type" : "@comment",
+      "parameters" : {
+        "text" : {
+          "value" : "适用于 Taio 的 OpenCC 程序，源码：https://github.com/cyanzhong/TaioCC"
+        }
+      }
+    },
+    {
+      "type" : "@flow.javascript",
+      "parameters" : {
+        "script" : {
+          "value" : ""
+        }
+      }
+    }
+  ],
+  "buildVersion" : 1,
+  "name" : "TaioCC",
+  "clientMinVersion" : 1,
+  "summary" : "",
+  "icon" : {
+    "glyph" : "textbox",
+    "color" : "#10ADC0"
+  },
+  "clientVersion" : 592
+}

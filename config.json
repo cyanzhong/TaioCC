@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "TaioCC",
+    "url": "https://github.com/cyanzhong/TaioCC",
+    "author": "Taio Team",
+    "website": "https://taio.app"
+  },
+  "settings": {
+    "theme": "auto",
+    "minSDKVer": "2.19.0",
+    "minOSVer": "14.0.0",
+    "idleTimerDisabled": false,
+    "autoKeyboardEnabled": false,
+    "keyboardToolbarEnabled": false,
+    "rotateDisabled": false
+  }
+}

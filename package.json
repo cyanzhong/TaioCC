@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/core": "2.3.2",
+    "@parcel/config-default": "2.3.2"
+  },
+  "dependencies": {
+    "@swc/helpers": "0.2.14",
+    "regenerator-runtime": "0.13.9"
+  },
+  "scripts": {
+    "build": "node build.js",
+    "clean": "node clean.js"
+  }
+}

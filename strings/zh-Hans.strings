@@ -1,0 +1,29 @@
+"README_FILE" = "README_zh-Hans.md";
+"ABOUT" = "关于";
+"SOURCE_CODE" = "源码";
+
+"FOUND_NEW_VERSION" = "发现新版本";
+"UPDATE_TO_NEW_VERSION" = "更新到最新版本？";
+"CURRENT_VERSION" = "当前版本";
+"GET_LATEST_VERSION" = "获取最新版本";
+"UPDATE" = "更新";
+"CANCEL" = "取消";
+"TAIO_UPDATE_URL" = "https://github.com/cyanzhong/TaioCC/raw/main/dist/taiocc-zh-Hans.json";
+
+"EDIT" = "编辑";
+"COPY" = "复制";
+"CONVERT" = "转换";
+"EMPTY_TEXT" = "空空如也";
+"SOURCE_TEXT" = "原文";
+"DESTINATION_TEXT" = "目标";
+"READ_FROM_CLIPBOARD" = "从剪贴板读取";
+"DIFF" = "对比差异";
+"REPLACE_WITH_RESULT" = "使用结果替换";
+
+"DEFAULT_SOURCE_INDEX" = "0";
+"DEFAULT_DESTINATION_INDEX" = "2";
+"SIMPLIFIED_CHINESE" = "简体中文";
+"TRADITIONAL_TAIWAN" = "台湾繁体";
+"TRADITIONAL_TAIWAN_WITH_PHRASES" = "台湾繁体 (含惯用语)";
+"TRADITIONAL_HONGKONG" = "香港繁体";
+"JAPANESE_SHINJITAI" = "日语新字体";
