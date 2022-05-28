@@ -1,3 +1,5 @@
+[💬 English / 中文](https://github.com/cyanzhong/TaioCC/blob/main/README_zh-Hans.md)
+
 ## TaioCC
 
 Chinese Converter for [Taio](https://taio.app), based on [opencc-js](https://github.com/nk2028/opencc-js).

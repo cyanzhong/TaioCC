@@ -1,3 +1,5 @@
+[💬 English / 中文](https://github.com/cyanzhong/TaioCC)
+
 ## TaioCC
 
 為 [Taio](https://taio.app) 設計的繁簡轉換工具，基於 [opencc-js](https://github.com/nk2028/opencc-js) 專案。
