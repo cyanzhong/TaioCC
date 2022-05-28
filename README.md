@@ -2,6 +2,10 @@
 
 Chinese Converter for [Taio](https://taio.app), based on [opencc-js](https://github.com/nk2028/opencc-js).
 
+<img src="https://github.com/cyanzhong/TaioCC/raw/main/screenshots/IMG_1.PNG" width="360" alt="TaioCC"/>
+
+<img src="https://github.com/cyanzhong/TaioCC/raw/main/screenshots/IMG_2.PNG" width="360" alt="Review Diffs"/>
+
 > Learn more about OpenCC, check [here](https://github.com/BYVoid/OpenCC).
 
 ## Main Features
@@ -11,6 +15,7 @@ Chinese Converter for [Taio](https://taio.app), based on [opencc-js](https://git
 - Character variant conversion
 - Diff view to compare differences
 - Copy the result or replace selected text in the editor
+- `⌘ C` and `⌘ V` to manipulate clipboard data
 
 ## Installation
 

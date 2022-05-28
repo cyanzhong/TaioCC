@@ -114,6 +114,20 @@ function render() {
             about.open();
           }
         }
+      ],
+      keyCommands: [
+        {
+          input: "C", // cmd-c to copy to clipboard
+          modifiers: 1 << 20,
+          title: strings.read_from_clipboard,
+          handler: () => copyText()
+        },
+        {
+          input: "V", // cmd-v to read from clipboard
+          modifiers: 1 << 20,
+          title: strings.read_from_clipboard,
+          handler: () => readFromClipboard()
+        }
       ]
     },
     views: [

@@ -2,6 +2,10 @@
 
 为 [Taio](https://taio.app) 设计的繁简转换工具，基于 [opencc-js](https://github.com/nk2028/opencc-js) 项目。
 
+<img src="https://github.com/cyanzhong/TaioCC/raw/main/screenshots/IMG_1.PNG" width="360" alt="TaioCC"/>
+
+<img src="https://github.com/cyanzhong/TaioCC/raw/main/screenshots/IMG_2.PNG" width="360" alt="对比差异"/>
+
 > 了解更多关于 OpenCC 的信息，请查看[这里](https://github.com/BYVoid/OpenCC)。
 
 ## 主要特性
@@ -11,6 +15,7 @@
 - 变体转换
 - 差异对比视图
 - 复制结果或替换编辑器中选中的文本
+- 通过 `⌘ C` 和 `⌘ V` 来操作剪贴板数据
 
 ## 安装
 
