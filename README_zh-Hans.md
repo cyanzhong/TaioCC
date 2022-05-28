@@ -14,7 +14,7 @@
 
 ## 安装
 
-请查看[这里](https://actions.taio.app/#/cn/utility?id=TaioCC)。
+请查看[这里](https://actions.taio.app/#/cn/utility?id=taiocc)。
 
 ## 构建 Taio 动作
 

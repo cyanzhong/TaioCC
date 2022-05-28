@@ -14,7 +14,7 @@
 
 ## 安裝
 
-請檢視[這裡](https://actions.taio.app/#/cn/utility?id=TaioCC)。
+請檢視[這裡](https://actions.taio.app/#/cn/utility?id=taiocc)。
 
 ## 構建 Taio 動作
 

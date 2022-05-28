@@ -14,7 +14,7 @@ Chinese Converter for [Taio](https://taio.app), based on [opencc-js](https://git
 
 ## Installation
 
-Check [here](https://actions.taio.app/#/utility?id=TaioCC).
+Check [here](https://actions.taio.app/#/utility?id=taiocc).
 
 ## Building Taio Actions
 
